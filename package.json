@@ -1,0 +1,26 @@
+{
+  "name": "luhn-algorthim-impl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --declaration",
+    "start": "npm run build; node dist/app.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljahier/luhn-algorithm-impl.git"
+  },
+  "author": "Lucas JAHIER <lucas.jahier@jahier.dev> (https://jahier.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ljahier/luhn-algorithm-impl/issues"
+  },
+  "homepage": "https://github.com/ljahier/luhn-algorithm-impl#readme",
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  }
+}
