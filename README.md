@@ -1,6 +1,6 @@
 # LUHN-ALGORITHM-IMPL
 
-Luhn-algorithm-impl is a Typescript/Javascript library for the verification of Credit Card, IMEI and French SIRET number.
+Luhn-algorithm-impl is a Typescript/Javascript library implementation of official algorithm for Credit Card, IMEI and French SIRET number verification.
 
 [Luhn Algorithm](https://fr.wikipedia.org/wiki/Formule_de_Luhn)
 
